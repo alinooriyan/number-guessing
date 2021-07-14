@@ -12,4 +12,4 @@ const createQuiz = () => {
     })
 }
 
-exports = createQuiz
+exports = createQuiz()
