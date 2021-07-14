@@ -11,3 +11,5 @@ const createQuiz = () => {
         }
     })
 }
+
+exports = createQuiz
