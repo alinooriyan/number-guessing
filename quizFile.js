@@ -3,6 +3,6 @@ const prompt = ps()
 
 const createQuiz = () => {
     return new Promise((resolve, reject) => {
-
+        let number = parseInt(prompt('Enter a number to guess betweeen 1 and 10: '))
     })
 }
