@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "number-guesser",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahand2012p/number-guessing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahand2012p/number-guessing/issues"
+  },
+  "homepage": "https://github.com/sahand2012p/number-guessing#readme",
+  "description": ""
 }
