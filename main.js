@@ -1,0 +1,1 @@
+const createQuiz = require('./quizFile')
